@@ -1,2 +1,1 @@
-Privet
-Kak dela?
+1.0.0
